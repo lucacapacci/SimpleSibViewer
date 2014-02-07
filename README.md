@@ -1,7 +1,7 @@
 SimpleSibViewer
 ===============
 
-A colored and easy-to-use smart-m3 SIB viewer.
+A colored and easy-to-use command line smart-m3 SIB viewer.
 
 Usage: java -jar simpleSibViewer.jar [\<SIB_Host\>] [\<SIB_Port\>] [\<SIB_Name\>]
 
