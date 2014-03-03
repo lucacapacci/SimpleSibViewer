@@ -13,4 +13,5 @@ SIB_Host = 127.0.0.1
 SIB_Port = 10010  
 SIB_Name = "X"
 
-To close the application and disconnect from the SIB press ENTER.
+- To print the SIB content while the application is running press the "s" key on your keyboard and then press ENTER
+- To close the application and disconnect from the SIB press ENTER
