@@ -1,11 +1,11 @@
-SimpleSibViewer
+Simple Sib Viewer
 ===============
 
-A colorful and easy-to-use command line smart-m3 SIB viewer.
+A colorful and easy-to-use command line tool to keep track of every insert/delete/update performed on your smart-m3 SIB.
 
 Usage: java -jar simpleSibViewer.jar [\<SIB_Host\>] [\<SIB_Port\>] [\<SIB_Name\>]
 
-If you run it without arguments it will connect to:  
+Running it without arguments it will connect to:  
 SIB_Host = 127.0.0.1  
 SIB_Port = 10010  
 SIB_Name = "X"
